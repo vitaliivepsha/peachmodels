@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Людмила 
+<strong>Номер</strong>: +380 (66) 073 89 79
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: брачное_агентство_вакансии
+<strong>IP</strong>: 2a00:bc00:8800:2aa3:c7:8768:408d:2473
+
+    [parse_mode] => HTML
+)
+

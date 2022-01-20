@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Ольга
+<strong>Номер</strong>: +38 (098) 957-41-35
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: веб_камера_работа
+<strong>IP</strong>: 31.202.149.67
+
+    [parse_mode] => HTML
+)
+

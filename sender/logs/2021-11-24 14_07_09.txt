@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: София
+<strong>Номер</strong>: +38(095)596-9968
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office_obshie
+<strong>Utm term</strong>: работа_в_ночную_смену_харьков
+<strong>IP</strong>: 195.140.224.52
+
+    [parse_mode] => HTML
+)
+

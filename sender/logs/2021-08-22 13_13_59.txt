@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Артем
+<strong>Номер</strong>: +38 (066) 271-33-44
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: заработок_на_общении
+<strong>IP</strong>: 93.77.91.0
+
+    [parse_mode] => HTML
+)
+

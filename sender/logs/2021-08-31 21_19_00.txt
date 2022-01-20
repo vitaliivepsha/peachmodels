@@ -1,0 +1,10 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Ирина
+<strong>Номер</strong>: +38 (050) 554 99 50
+<strong>IP</strong>: 94.153.64.233
+
+    [parse_mode] => HTML
+)
+

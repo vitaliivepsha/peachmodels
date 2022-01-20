@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Анастасия
+<strong>Номер</strong>: (097) 025 18 35
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office_info
+<strong>Utm term</strong>: как_подзаработать_денег
+<strong>IP</strong>: 77.244.32.227
+
+    [parse_mode] => HTML
+)
+

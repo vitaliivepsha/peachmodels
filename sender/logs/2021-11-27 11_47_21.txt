@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Алина
+<strong>Номер</strong>: +38 050 179 7492
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: сайты_для_веб_моделей
+<strong>IP</strong>: 91.193.172.149
+
+    [parse_mode] => HTML
+)
+

@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Яна Панасенко
+<strong>Номер</strong>: 0504564533
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: webcam
+<strong>IP</strong>: 178.151.175.131
+
+    [parse_mode] => HTML
+)
+

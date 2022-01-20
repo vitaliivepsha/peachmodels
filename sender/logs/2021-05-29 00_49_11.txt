@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Арамис Дамелио
+<strong>Номер</strong>: +380 67 278 6928
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: web_модель_работа
+<strong>IP</strong>: 46.211.91.23
+
+    [parse_mode] => HTML
+)
+

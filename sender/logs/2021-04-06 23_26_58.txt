@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Яна
+<strong>Номер</strong>: +380 68 573 0516
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: веб_модели_харьков
+<strong>IP</strong>: 178.150.115.71
+
+    [parse_mode] => HTML
+)
+

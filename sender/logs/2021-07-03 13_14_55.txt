@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Алина
+<strong>Номер</strong>: +38(063) 503 98 68
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: работа_переписка_с_иностранцами
+<strong>IP</strong>: 88.155.44.7
+
+    [parse_mode] => HTML
+)
+

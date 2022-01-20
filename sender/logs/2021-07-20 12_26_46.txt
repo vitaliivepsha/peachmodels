@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Алёна 
+<strong>Номер</strong>: (063) 819-00-21
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: брачное_агентство_вакансии
+<strong>IP</strong>: 88.155.17.174
+
+    [parse_mode] => HTML
+)
+

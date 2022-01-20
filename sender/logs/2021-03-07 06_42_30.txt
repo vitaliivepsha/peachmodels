@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Денис
+<strong>Номер</strong>: +380970533822
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: вебкам
+<strong>IP</strong>: 88.155.139.176
+
+    [parse_mode] => HTML
+)
+

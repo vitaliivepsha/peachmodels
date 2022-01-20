@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Юлия Алексеева
+<strong>Номер</strong>: +38 (097) 324-56-85
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: брачное_агентство_вакансии
+<strong>IP</strong>: 185.228.103.130
+
+    [parse_mode] => HTML
+)
+

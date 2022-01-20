@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Наталья
+<strong>Номер</strong>: +38(050) 904-76-24
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office_obshie
+<strong>Utm term</strong>: работа_харьков_ночь
+<strong>IP</strong>: 46.150.10.69
+
+    [parse_mode] => HTML
+)
+

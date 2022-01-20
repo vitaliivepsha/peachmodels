@@ -1,0 +1,135 @@
+.app-section{
+  position: relative;
+  height: 800px;
+  margin-bottom: 75px;
+  @include bp(xs){
+    height: auto;
+    margin-bottom: 30px;
+  }
+  .container{
+    position: relative;
+    z-index: 1;
+  }
+}
+
+.app-bg{
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 100%;
+  @media only screen and (max-width: 1649px){
+    right: -20%;
+  }
+  @include bp(lg){
+    right: -40%;
+  }
+  @include bp(md){
+    right: 0;
+    display: none;
+  }
+  img{
+    height: 100%;
+    object-fit: cover;
+  }
+  &__mob{
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    display: none;
+    @include bp(md){
+      display: block;
+    }
+    @include bp(xs){
+      height: 318px;
+    }
+    img{
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+}
+
+.app-txt{
+  width: 870px;
+  padding-top: 100px;
+  @include bp(lg){
+    width: 710px;
+    max-width: 100%;
+  }
+  @include bp(xs){
+    padding-top: 30px;
+  }
+  .section-title{
+    margin-bottom: 40px;
+    @include bp(lg){
+      margin-bottom: 20px;
+    }
+    @include bp(xs){
+      margin-bottom: 2px;
+    }
+  }
+}
+
+.app-subtitle{
+  font-weight: 600;
+  font-size: 42px;
+  line-height: 54px;
+  margin-bottom: 24px;
+  max-width: 668px;
+  @include bp(xs){
+    margin-bottom: 5px;
+    font-size: 24px;
+    line-height: 31px;
+  }
+  span{
+    color: #BE70E5;
+  }
+}
+
+.app-descr{
+  font-size: 28px;
+  line-height: 36px;
+  margin-bottom: 44px;
+  @include bp(xs){
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 15px;
+  }
+  br{
+    @include bp(xs){
+      display: none;
+    }
+  }
+}
+
+.app-form{
+  width: 530px;
+  max-width: 100%;
+  .input-wrapper{
+    margin-bottom: 32px;
+    @include bp(xs){
+      margin-bottom: 15px;
+    }
+    .validate-error{
+      @include bp(xs){
+        bottom: -13px;
+      }
+    }
+  }
+  .checkbox-wrapper{
+    margin-bottom: 40px;
+    margin-top: 42px;
+    @include bp(xs){
+      margin-top: 15px;
+      margin-bottom: 20px;
+    }
+  }
+  .btn{
+    width: 330px;
+    @include bp(xs){
+      width: 220px;
+      margin: 0 auto;
+    }
+  }
+}

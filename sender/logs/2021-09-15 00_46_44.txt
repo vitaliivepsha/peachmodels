@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Anastasia
+<strong>Номер</strong>: +38 (068) 350 - 06 - 22
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office_obshie
+<strong>Utm term</strong>: работа_студентам_харьков
+<strong>IP</strong>: 46.211.68.192
+
+    [parse_mode] => HTML
+)
+

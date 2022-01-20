@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Ольга
+<strong>Номер</strong>: +38 (095) 815-35-68
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: веб_модели_работа
+<strong>IP</strong>: 178.133.156.98
+
+    [parse_mode] => HTML
+)
+

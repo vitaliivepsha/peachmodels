@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Диана
+<strong>Номер</strong>: +38 (099) 293 - 97 - 90
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: работа_в_брачном_агентстве_николаев
+<strong>IP</strong>: 178.133.120.30
+
+    [parse_mode] => HTML
+)
+

@@ -1,0 +1,237 @@
+.footer{
+  background: linear-gradient(0deg, #1E2049, #1E2049), linear-gradient(271.33deg, #B760E2 26.66%, #8CB8FA 99.75%);
+  padding: 45px 0 25px;
+  position: relative;
+  z-index: 1;
+  @include bp(xs){
+    padding-top: 20px;
+  }
+}
+
+.footer-top{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.footer-logo{
+  display: flex;
+  width: 272px;
+  min-width: 272px;
+  padding-top: 6px;
+  @include bp(md){
+    width: 160px;
+    min-width: 160px;
+  }
+  @include bp(xs){
+    width: 122px;
+    min-width: 122px;
+  }
+  svg{
+    width: 100%;
+  }
+}
+
+.footer-menu{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5px;
+  @include bp(lg){
+    flex-direction: column;
+    width: 150px;
+    align-items: flex-start;
+  }
+  @include bp(xs){
+    width: 100px;
+  }
+  li{
+    word-break: keep-all;
+    white-space: nowrap;
+    width: max-content;
+    a{
+      padding: 10px 20px;
+      display: flex;
+      position: relative;
+      text-decoration: none;
+      font-size: 18px;
+      line-height: 23px;
+      font-weight: 600;
+      color: transparent;
+      @include bp(lg){
+        padding: 10px 12px;
+      }
+      @include bp(xs){
+        padding: 5px 10px;
+        font-size: 14px;
+        line-height: 18px;
+      }
+      &:before{
+        position: absolute;
+        content: attr(data-title);
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        opacity: 1;
+        transition: linear .05s;
+        color: $blue;
+        font-size: 18px;
+        line-height: 23px;
+        font-weight: 400;
+        @include bp(lg){
+          left: 0;
+          transform: translateY(-50%);
+        }
+        @include bp(xs){
+          font-size: 14px;
+          line-height: 18px;
+        }
+      }
+      &:after{
+        position: absolute;
+        content: attr(data-title);
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        opacity: 0;
+        transition: linear .05s;
+        color: $blue;
+        font-size: 18px;
+        line-height: 23px;
+        font-weight: 600;
+        @include bp(lg){
+          left: 0;
+          transform: translateY(-50%);
+        }
+        @include bp(xs){
+          font-size: 14px;
+          line-height: 18px;
+        }
+      }
+      &:hover{
+        &:before{
+          opacity: 0;
+        }
+        &:after{
+          opacity: 1;
+        }
+      }
+    }
+  }
+}
+
+.footer-btn{
+  width: 204px;
+  @include bp(lg){
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 60px;
+  }
+  @include bp(sm){
+    width: 170px;
+  }
+  @include bp(xs){
+    top: 192px;
+    width: 220px;
+  }
+  @include bp(xxs){
+    width: 170px;
+    font-size: 18px;
+    line-height: 23px;
+  }
+}
+
+.footer-contacts{
+  display: block;
+  margin-top: 11px;
+  @include bp(lg){
+    position: absolute;
+    top: 120px;
+    margin-top: 0;
+  }
+  @include bp(xs){
+    top: 56px;
+    width: 170px;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  >span{
+    font-size: 18px;
+    line-height: 23px;
+    color: $blue;
+    @include bp(xs){
+      font-size: 14px;
+      line-height: 18px;
+    }
+  }
+  .header-contacts{
+    margin-left: 0;
+    margin-top: 18px;
+    @include bp(xs){
+      margin-top: 7px;
+      width: 100%;
+      flex-wrap: wrap;
+    }
+    li{
+      margin-right: 24px;
+      &.phone{
+        @include bp(xs){
+          margin-right: 0;
+          margin-top: 4px;
+        }
+        a{
+          background: transparent;
+          border-radius: 0;
+          width: auto;
+          height: auto;
+          font-size: 18px;
+          line-height: 23px;
+          text-decoration: none;
+          color: $blue;
+          &:hover{
+            text-decoration: underline;
+            color: $blue;
+            &:before{
+              display: none;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.footer-copyright{
+  margin-top: 27px;
+  position: relative;
+  padding-top: 15px;
+  text-align: center;
+  @include bp(xs){
+    margin-top: 120px;
+  }
+  &:before{
+    position: absolute;
+    content: '';
+    width: 307px;
+    height: 1px;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    background: $gradient;
+    @include bp(xs){
+      width: 100vw;
+    }
+  }
+  a{
+    font-size: 14px;
+    line-height: 18px;
+    text-decoration: none;
+    color: $blue;
+    font-weight: 500;
+    @include bp(xs){
+      font-size: 11px;
+      line-height: 14px;
+    }
+  }
+}

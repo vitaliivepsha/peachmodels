@@ -1,0 +1,180 @@
+.req-section{
+  padding-top: 10px;
+  margin-bottom: 90px;
+  @include bp(md){
+    margin-bottom: 40px;
+  }
+  @include bp(xs){
+    margin-bottom: 10px;
+  }
+  .section-title{
+    text-align: center;
+    margin-bottom: 60px;
+    @include bp(xs){
+      margin-bottom: 20px;
+    }
+  }
+}
+
+.req-title{
+  display: block;
+  text-align: center;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 42px;
+  margin-bottom: 126px;
+  position: relative;
+  svg{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: calc(100% + 12px);
+  }
+  @include bp(xs){
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 60px;
+  }
+}
+
+.req-wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -12px;
+  margin-left: -12px;
+}
+
+.req-item{
+  width: 33.333333%;
+  padding: 0 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+  @include bp(md){
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  @include bp(xs){
+    margin-bottom: 30px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-end;
+  }
+  &.item1{
+    >div{
+      @include bp(xs){
+        height: 61px;
+      }
+      >span{
+        >svg{
+          right: -28px;
+          bottom: -9px;
+          @include bp(xs){
+            width: 40px;
+            height: 41px;
+            right: -15px;
+            bottom: -5px;
+          }
+        }
+      }
+    }
+  }
+  &.item2{
+    >div{
+      @include bp(xs){
+        height: 57px;
+      }
+      >span{
+        >svg{
+          right: -47px;
+          bottom: 0;
+          @include bp(xs){
+            width: 61px;
+            height: 32px;
+            right: -25px;
+            bottom: 0;
+          }
+        }
+      }
+    }
+  }
+  &.item3{
+    >div{
+      @include bp(xs){
+        height: 63px;
+      }
+      >span{
+        >svg{
+          right: -46px;
+          bottom: -9px;
+          @include bp(xs){
+            width: 53px;
+            height: 41px;
+            right: -25px;
+            bottom: -5px;
+          }
+        }
+      }
+    }
+  }
+  >div{
+    height: 150px;
+    @include bp(md){
+      height: 135px;
+    }
+    @include bp(xs){
+      width: 92px;
+    }
+    >span{
+      display: block;
+      width: 104px;
+      height: 104px;
+      border-radius: 50%;
+      position: relative;
+      @include bp(xs){
+        width: 56px;
+        height: 56px;
+      }
+      &:before{
+        position: absolute;
+        content: '';
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        opacity: .5;
+        border-radius: 50%;
+        background: $gradient;
+      }
+      svg{
+        position: absolute;
+      }
+    }
+  }
+  >span{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 31px;
+    margin-bottom: 30px;
+    text-align: center;
+    @include bp(xs){
+      font-size: 14px;
+      line-height: 18px;
+      margin-bottom: 0;
+    }
+  }
+  >p{
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    margin: 0 auto;
+    width: 315px;
+    @include bp(xs){
+      width: 100%;
+      font-size: 14px;
+      line-height: 18px;
+      margin-top: 6px;
+    }
+  }
+}

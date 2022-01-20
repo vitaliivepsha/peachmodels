@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Кавтар дадун
+<strong>Номер</strong>: +380505146651
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: веб_модели
+<strong>IP</strong>: 178.151.143.36
+
+    [parse_mode] => HTML
+)
+

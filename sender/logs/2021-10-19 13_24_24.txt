@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Елена 
+<strong>Номер</strong>: +38 (068) 315 - 61 - 34
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office_obshie
+<strong>Utm term</strong>: свежие_вакансии_харьков_работа
+<strong>IP</strong>: 104.166.161.219
+
+    [parse_mode] => HTML
+)
+

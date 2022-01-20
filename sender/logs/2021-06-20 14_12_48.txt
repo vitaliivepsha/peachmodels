@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Екатерина Кравец
+<strong>Номер</strong>: +380(66)962-71-42
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: заработок_веб_кам
+<strong>IP</strong>: 94.153.9.200
+
+    [parse_mode] => HTML
+)
+

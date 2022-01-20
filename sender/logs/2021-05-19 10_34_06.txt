@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Руслан Симоненко
+<strong>Номер</strong>: 0664766514
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: брачное_агентство_вакансии
+<strong>IP</strong>: 46.200.207.248
+
+    [parse_mode] => HTML
+)
+

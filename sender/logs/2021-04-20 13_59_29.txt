@@ -1,0 +1,10 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Виктория 
+<strong>Номер</strong>: 0970393537 (зВоНите в телеграм )
+<strong>IP</strong>: 45.150.56.47
+
+    [parse_mode] => HTML
+)
+

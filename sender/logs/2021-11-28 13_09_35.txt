@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Владимир
+<strong>Номер</strong>: +380(50) 735 - 87 - 61
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: заработок_на_вебкам
+<strong>IP</strong>: 193.30.243.218
+
+    [parse_mode] => HTML
+)
+

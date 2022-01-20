@@ -1,0 +1,168 @@
+.start-section{
+  position: relative;
+  height: 655px;
+  margin-bottom: 80px;
+  @include bp(lg){
+    height: auto;
+    padding-top: 40px;
+  }
+  @include bp(xs){
+    padding-top: 15px;
+    margin-bottom: 25px;
+  }
+  .container{
+    height: 100%;
+    display: flex;
+    position: relative;
+    z-index: 1;
+    @include bp(lg){
+      flex-direction: column-reverse;
+      height: auto;
+    }
+  }
+}
+
+.start-bg{
+  position: absolute;
+  left: -58px;
+  width: 60vw;
+  top: 0;
+  height: 100%;
+  background: linear-gradient(271.35deg, #D996FB 15.15%, #8CB8FA 95.6%), #FFFFFF;
+  opacity: 0.2;
+  @include bp(lg){
+    display: none;
+  }
+  &__mob{
+    display: none;
+    right: auto;
+    left: 20px;
+    position: absolute;
+    top: 0;
+    height: 100%;
+    z-index: -1;
+    @include bp(lg){
+      display: none;
+    }
+    img{
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+}
+
+.start-collage{
+  width: 590px;
+  max-width: 100%;
+  height: 655px;
+  margin-right: 58px;
+  @include bp(lg){
+    margin: 45px auto 0;
+  }
+  @include bp(sm){
+    margin: 45px -15px 0;
+  }
+  @include bp(xs){
+    width: auto;
+    height: auto;
+  }
+  img{
+    height: 100%;
+    object-fit: cover;
+    @include bp(sm){
+      height: 100%;
+      max-width: 100%;
+      width: 100%;
+    }
+    @include bp(xs){
+      height: 111.5vw;
+      object-fit: contain;
+    }
+  }
+}
+
+.start-txt__wrapper{
+  display: flex;
+  align-items: flex-end;
+  position: relative;
+  height: 100%;
+  padding-bottom: 80px;
+  @include bp(lg){
+    height: auto;
+  }
+  @include bp(xs){
+    height: auto;
+    padding-bottom: 25px;
+  }
+}
+
+.start-txt{
+  width: 560px;
+  position: relative;
+  z-index: 1;
+  @include bp(lg){
+    width: 100%;
+  }
+  @include bp(xs){
+    padding: 0 15px;
+  }
+  .section-title{
+    margin-bottom: 26px;
+    float: right;
+    @include bp(xs){
+      float: left;
+      margin-bottom: 13px;
+    }
+    span{
+      opacity: 1;
+      span{
+        background: #fff;
+        -webkit-background-clip: text;
+        @include bp(lg){
+          background: $gradient;
+          -webkit-background-clip: text;
+        }
+      }
+    }
+  }
+  >p{
+    font-size: 18px;
+    line-height: 23px;
+    margin-bottom: 21px;
+    max-width: 548px;
+    @include bp(lg){
+      max-width: unset;
+    }
+    @include bp(xs){
+      font-size: 14px;
+      line-height: 18px;
+      margin-bottom: 15px;
+    }
+  }
+  .btn{
+    width: 330px;
+    max-width: 100%;
+    margin-top: 54px;
+    @include bp(lg){
+      margin: 45px auto 0;
+    }
+    @include bp(xs){
+      margin-top: 25px;
+      width: 220px;
+    }
+  }
+}
+
+.start-subtitle{
+  display: block;
+  clear: both;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 46px;
+  margin-bottom: 25px;
+  @include bp(xs){
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 10px;
+  }
+}

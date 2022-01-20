@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Андрій
+<strong>Номер</strong>: +38 (095) 498 - 08 - 72
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: web_модель_работа
+<strong>IP</strong>: 46.133.176.168
+
+    [parse_mode] => HTML
+)
+

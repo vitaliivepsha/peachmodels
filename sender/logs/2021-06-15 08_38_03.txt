@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Виктория 
+<strong>Номер</strong>: +38 (099) 381-96-49
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: работа_переписка_с_иностранцами
+<strong>IP</strong>: 185.159.163.140
+
+    [parse_mode] => HTML
+)
+

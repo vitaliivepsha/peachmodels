@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Светлана
+<strong>Номер</strong>: 95 540 09 36
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: работа_веб_модели
+<strong>IP</strong>: 188.163.46.212
+
+    [parse_mode] => HTML
+)
+

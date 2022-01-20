@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Олександра
+<strong>Номер</strong>: +380(93) 271 - 56 - 33
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: веб_модель
+<strong>IP</strong>: 185.183.93.104
+
+    [parse_mode] => HTML
+)
+

@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Аня
+<strong>Номер</strong>: +380 (68) 589-96-59
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office_obshie
+<strong>Utm term</strong>: работа_харьков
+<strong>IP</strong>: 46.211.62.129
+
+    [parse_mode] => HTML
+)
+

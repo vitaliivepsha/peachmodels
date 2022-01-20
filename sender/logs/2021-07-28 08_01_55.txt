@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Сергей
+<strong>Номер</strong>: +380(63) 290 - 65 - 27
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: брачное_агентство_вакансии
+<strong>IP</strong>: 88.155.12.203
+
+    [parse_mode] => HTML
+)
+

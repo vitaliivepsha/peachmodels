@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Екатерина
+<strong>Номер</strong>: 0501388410
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: работа_вебкам_дома
+<strong>IP</strong>: 94.153.28.198
+
+    [parse_mode] => HTML
+)
+

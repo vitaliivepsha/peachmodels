@@ -1,0 +1,10 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Олена Поліщук
+<strong>Номер</strong>: 0987362046
+<strong>IP</strong>: 77.52.211.8
+
+    [parse_mode] => HTML
+)
+

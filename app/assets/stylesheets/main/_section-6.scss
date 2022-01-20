@@ -1,0 +1,101 @@
+.earnings-section{
+  position: relative;
+  height: 800px;
+  margin-bottom: 145px;
+  @include bp(lg){
+    height: auto;
+    display: flex;
+    flex-direction: column-reverse;
+    margin-bottom: 40px;
+  }
+  @include bp(xs){
+    padding-top: 30px;
+    margin-bottom: 15px;
+  }
+  .container{
+    position: relative;
+    z-index: 1;
+  }
+}
+
+.earnings-bg{
+  position: absolute;
+  right: -70px;
+  top: 0;
+  height: 100%;
+  @media only screen and (max-width: 1649px){
+    right: -20%;
+  }
+  @include bp(lg){
+    display: block;
+    position: static;
+    right: auto;
+    top: auto;
+    height: 800px;
+  }
+  @include bp(sm){
+    height: 62.5vw;
+    width: 100%;
+  }
+  @include bp(xs){
+    width: calc(100vw + 100px);
+    height: 82vw;
+  }
+  img{
+    height: 100%;
+    object-fit: cover;
+    @include bp(sm){
+      height: auto;
+      width: 100%;
+    }
+  }
+}
+
+.earnings-txt{
+  width: 564px;
+  max-width: 100%;
+  padding-top: 180px;
+  @include bp(lg){
+    width: 100%;
+    padding-top: 80px;
+    padding-bottom: 35px;
+  }
+  @include bp(xs){
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .section-title{
+    margin-bottom: 35px;
+    @include bp(xs){
+      margin-bottom: 13px;
+    }
+  }
+  >p{
+    font-size: 18px;
+    line-height: 23px;
+    margin-bottom: 21px;
+    @include bp(xs){
+      font-size: 14px;
+      line-height: 18px;
+      margin-bottom: 20px;
+    }
+    &:last-child{
+      margin-bottom: 0;
+    }
+  }
+}
+
+.earnings-subtitle{
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 46px;
+  margin-bottom: 24px;
+  span{
+    color: #BE70E5;
+  }
+  @include bp(xs){
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 10px;
+  }
+}

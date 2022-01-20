@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: карина
+<strong>Номер</strong>: +38 (050) 647-39-24
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: вебкам_модель
+<strong>IP</strong>: 176.36.183.67
+
+    [parse_mode] => HTML
+)
+

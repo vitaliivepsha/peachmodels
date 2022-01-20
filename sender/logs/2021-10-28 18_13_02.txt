@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Руслан
+<strong>Номер</strong>: +38(066) 531 77 83
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office_info
+<strong>Utm term</strong>: как_заработать_много
+<strong>IP</strong>: 178.92.8.243
+
+    [parse_mode] => HTML
+)
+

@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Олег
+<strong>Номер</strong>: 0954555906
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office_obshie
+<strong>Utm term</strong>: работа_харькове_ежедневной_оплатой
+<strong>IP</strong>: 2a00:1210:a:6bc3:f91e:f1d2:ec88:6178
+
+    [parse_mode] => HTML
+)
+

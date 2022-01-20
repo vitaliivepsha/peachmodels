@@ -1,0 +1,10 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: ЗахАр
+<strong>Номер</strong>: 0661252231
+<strong>IP</strong>: 178.133.129.11
+
+    [parse_mode] => HTML
+)
+

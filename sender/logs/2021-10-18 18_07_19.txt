@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Аня
+<strong>Номер</strong>: 502867969
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office_info
+<strong>Utm term</strong>: как_быстро_заработать_денег
+<strong>IP</strong>: 178.150.153.239
+
+    [parse_mode] => HTML
+)
+

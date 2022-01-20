@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Валерия
+<strong>Номер</strong>: 380665753699
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: веб_модель_харьков
+<strong>IP</strong>: 91.193.172.164
+
+    [parse_mode] => HTML
+)
+

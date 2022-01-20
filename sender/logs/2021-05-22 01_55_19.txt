@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: JessIka
+<strong>Номер</strong>: 636919071
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: webcam_онлайн
+<strong>IP</strong>: 37.73.11.70
+
+    [parse_mode] => HTML
+)
+

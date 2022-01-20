@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Света
+<strong>Номер</strong>: +380 (96) 865-79-09
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: вебка_работа
+<strong>IP</strong>: 93.77.121.124
+
+    [parse_mode] => HTML
+)
+

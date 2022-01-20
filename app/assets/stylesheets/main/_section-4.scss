@@ -1,0 +1,124 @@
+.advantages-section{
+  position: relative;
+  padding: 60px 0;
+  @include bp(md){
+    padding-bottom: 55px;
+  }
+  @include bp(xs){
+    padding: 35px 0 40px;
+  }
+  .container{
+    position: relative;
+    z-index: 1;
+  }
+}
+
+.advantages-pic{
+  position: absolute;
+  left: 50%;
+  top: 0;
+  transform: translateX(-50%);
+  width: 100%;
+  height: 100%;
+  img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.advantages-wrapper{
+  display: flex;
+  justify-content: space-between;
+  @include bp(md){
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  @include bp(xs){
+    align-items: flex-start;
+    text-align: left;
+  }
+}
+
+.advantages-item{
+  @include bp(md){
+    margin-bottom: 30px;
+  }
+  @include bp(xs){
+    margin-bottom: 20px;
+    padding: 0 7px;
+  }
+  &:nth-child(1){
+    >div{
+      svg{
+        @include bp(xs){
+          //width: 90px;
+        }
+      }
+    }
+  }
+  &:nth-child(2){
+    >div{
+      svg{
+        @include bp(xs){
+          //width: 170px;
+        }
+      }
+    }
+  }
+  &:last-child{
+    margin-bottom: 0;
+    >div{
+      svg{
+        @include bp(xs){
+          //width: 170px;
+        }
+      }
+    }
+  }
+  >div{
+    height: 85px;
+    @include bp(md){
+      height: 41px;
+      margin: 0 auto;
+    }
+    @include bp(xs){
+      margin: 0;
+    }
+    svg{
+      margin-left: 12px;
+      margin-bottom: 12px;
+      @include bp(xs){
+        display: none;
+        margin-left: 5px;
+      }
+      &.mob{
+        display: none;
+        @include bp(xs){
+          display: block;
+        }
+      }
+    }
+  }
+  span{
+    display: block;
+    color: $blue;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 31px;
+    @include bp(lg){
+      font-size: 20px;
+      line-height: 28px;
+    }
+    @include bp(md){
+      margin-top: 15px;
+    }
+    @include bp(xs){
+      font-size: 16px;
+      line-height: 21px;
+      font-weight: 400;
+      margin-top: 0;
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Женя
+<strong>Номер</strong>: 0990709310 
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office_obshie
+<strong>Utm term</strong>: вакансии_для_студентов_без_опыта
+<strong>IP</strong>: 46.133.109.247
+
+    [parse_mode] => HTML
+)
+

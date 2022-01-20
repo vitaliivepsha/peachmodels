@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Виктория
+<strong>Номер</strong>: +38 (098) 172-03-18
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office_info
+<strong>Utm term</strong>: как_заработать_больше_денег
+<strong>IP</strong>: 46.211.32.60
+
+    [parse_mode] => HTML
+)
+

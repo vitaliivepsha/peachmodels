@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Даша
+<strong>Номер</strong>: +38 (068) 646 26 49
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: вебкам_харьков
+<strong>IP</strong>: 176.103.114.187
+
+    [parse_mode] => HTML
+)
+

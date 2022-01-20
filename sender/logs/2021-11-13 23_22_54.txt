@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: АЛина
+<strong>Номер</strong>: +38 (097) 930-8028
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office_obshie
+<strong>Utm term</strong>: работа_в_харькове_вакансии
+<strong>IP</strong>: 37.229.162.54
+
+    [parse_mode] => HTML
+)
+

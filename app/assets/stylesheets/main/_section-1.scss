@@ -1,0 +1,300 @@
+.main-section{
+  position: relative;
+  height: 840px;
+  min-height: 840px;
+  padding-top: 163px;
+  @media only screen and (max-width: 1367px){
+    height: 700px;
+    min-height: 700px;
+  }
+  @include bp(sm){
+    padding-top: 100px;
+    min-height: unset;
+    height: 94vw;
+  }
+  @include bp(xs){
+    height: auto;
+    padding-top: 67px;
+  }
+  >.container{
+    height: 100%;
+    position: relative;
+    z-index: 3;
+  }
+}
+
+.main-bg{
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 0;
+  @include bp(sm){
+    display: none;
+  }
+  img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  &__mob{
+    display: none;
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 0;
+    @include bp(sm){
+      display: block;
+    }
+    @include bp(xs){
+      height: 94vw;
+    }
+    img{
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+}
+
+.main-mask{
+  width: 1370px;
+  height: 100%;
+  left: 0;
+  top: 0;
+  position: absolute;
+  z-index: 2;
+  transform: skew(-25deg, 0);
+  @media only screen and (max-width: 1699px){
+    width: 74vw;
+  }
+  @media only screen and (max-width: 1449px){
+    width: 76.8vw;
+  }
+  @media only screen and (max-width: 1367px){
+    width: 76vw;
+  }
+  @media only screen and (max-width: 1299px){
+    width: 77.7vw;
+  }
+  @include bp(lg){
+    width: 72vw;
+  }
+  @include bp(sm){
+    width: 91vw;
+  }
+  @include bp(xs){
+    height: 94vw;
+    width: calc(100vw - 42px);
+  }
+  &:before{
+    position: absolute;
+    content: '';
+    top: 0;
+    left: -200px;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(271.16deg, #B760E2 26.35%, #8CB8FA 99.64%);
+    opacity: 0.6;
+    @include bp(xs){
+      left: -88px;
+    }
+    @include bp(xxs){
+      left: -71px;
+    }
+  }
+  &:after{
+    position: absolute;
+    content: '';
+    width: 1110px;
+    height: 100%;
+    background: linear-gradient(96.18deg, #030530 0.62%, rgba(13, 28, 46, 0) 87%);
+    opacity: 0.9;
+    left: 0;
+    top: 0;
+    transform: skew(25deg, 0);
+    @include bp(sm){
+      width: 65vw;
+      background: linear-gradient(96.18deg, #030530 0.62%, rgba(13, 28, 46, 0) 87%);
+    }
+    @include bp(xs){
+      width: calc(100vw - 130px);
+    }
+  }
+}
+
+.main-wrapper{
+  display: flex;
+  padding-bottom: 70px;
+  height: 100%;
+  @include bp(sm){
+    padding-bottom: 35px;
+  }
+  @include bp(xs){
+    height: auto;
+    flex-direction: column;
+    padding-bottom: 0;
+  }
+}
+
+.main-left{
+  width: calc(100% - 370px);
+  @include bp(md){
+    width: calc(100% - 350px);
+  }
+  @include bp(sm){
+    width: 56%;
+  }
+  @include bp(xs){
+    width: 100%;
+    height: calc(94vw - 67px);
+    display: flex;
+    align-items: center;
+  }
+  @include bp(xxs){
+    align-items: flex-start;
+  }
+  >div{
+    >h1{
+      font-size: 60px;
+      line-height: 1;
+      font-weight: 600;
+      margin-top: 0;
+      margin-bottom: 20px;
+      color: #fff;
+      @include bp(md){
+        font-size: 40px;
+      }
+      @include bp(sm){
+        font-size: 34px;
+        margin-bottom: 5px;
+      }
+      @include bp(xs){
+        font-size: 24px;
+        margin-bottom: 18px;
+      }
+      span{
+        background: $gradient;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-left: 18px;
+        @include bp(sm){
+          margin-left: 10px;
+        }
+        @include bp(xs){
+          margin-left: 6px;
+        }
+      }
+    }
+    >span{
+      color: $blue;
+      display: block;
+      font-size: 24px;
+      line-height: 31px;
+      margin-bottom: 40px;
+      @include bp(sm){
+        font-size: 20px;
+        line-height: 28px;
+      }
+      @include bp(xxs){
+        font-size: 14px;
+        line-height: 18px;
+      }
+    }
+  }
+  .btn{
+    width: 330px;
+    max-width: 100%;
+    @include bp(md){
+      width: 220px;
+    }
+    @include bp(xs){
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      top: calc(94vw - 97px);
+    }
+  }
+}
+
+.main-right{
+  width: 370px;
+  align-self: flex-end;
+  @include bp(md){
+    width: 350px;
+  }
+  @include bp(sm){
+    width: 44%;
+  }
+  @include bp(xs){
+    width: auto;
+    background-color: $dark-blue;
+    padding: 56px 16px 20px;
+    margin: 0 -15px;
+  }
+  p{
+    color: $blue;
+    font-size: 36px;
+    line-height: 42px;
+    margin-bottom: 5px;
+    @include bp(md){
+      font-size: 30px;
+      line-height: 36px;
+    }
+    @include bp(sm){
+      font-size: 21px;
+      line-height: 24px;
+    }
+    @include bp(xs){
+      font-size: 20px;
+      line-height: 26px;
+      text-align: center;
+      margin-bottom: 4px;
+      color: #fff;
+    }
+  }
+  span{
+    display: block;
+    color: #fff;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 51px;
+    margin-bottom: 5px;
+    @include bp(md){
+      font-size: 36px;
+      line-height: 44px;
+    }
+    @include bp(sm){
+      font-size: 30px;
+      line-height: 28px;
+    }
+    @include bp(xs){
+      font-size: 24px;
+      line-height: 31px;
+      text-align: center;
+      background: $gradient;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 10px;
+    }
+  }
+  div{
+    font-size: 16px;
+    line-height: 18px;
+    color: $blue;
+    @include bp(sm){
+      font-size: 14px;
+      line-height: 17px;
+    }
+    @include bp(xs){
+      font-size: 11px;
+      line-height: 14px;
+      color: $blue;
+    }
+  }
+}

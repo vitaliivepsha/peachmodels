@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Руслана
+<strong>Номер</strong>: +380 66 204 7817
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: брачное_агентство_вакансии
+<strong>IP</strong>: 37.57.78.177
+
+    [parse_mode] => HTML
+)
+

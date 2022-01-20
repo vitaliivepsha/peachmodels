@@ -1,0 +1,10 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Лилия
+<strong>Номер</strong>: +380 (50) 944-45-16
+<strong>IP</strong>: 178.150.190.224
+
+    [parse_mode] => HTML
+)
+

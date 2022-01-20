@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Инна
+<strong>Номер</strong>: +38 (099) 040-31-01
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: брачное_агентство_работа_модель
+<strong>IP</strong>: 188.163.22.161
+
+    [parse_mode] => HTML
+)
+

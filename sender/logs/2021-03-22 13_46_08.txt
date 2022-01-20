@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Рита
+<strong>Номер</strong>: +38 (095) 714-94-02
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: вебкам_модель
+<strong>IP</strong>: 93.76.137.241
+
+    [parse_mode] => HTML
+)
+

@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: миленочка
+<strong>Номер</strong>: +380 (63) 286 86 84
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: веб_кам
+<strong>IP</strong>: 91.201.180.126
+
+    [parse_mode] => HTML
+)
+

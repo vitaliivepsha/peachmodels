@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Ирина
+<strong>Номер</strong>: +38 (066) 510-35-55
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: веб_модель_харьков
+<strong>IP</strong>: 188.163.51.149
+
+    [parse_mode] => HTML
+)
+

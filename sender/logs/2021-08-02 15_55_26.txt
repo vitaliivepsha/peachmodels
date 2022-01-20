@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Полина
+<strong>Номер</strong>: +380 95 075 2498
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office_obshie
+<strong>Utm term</strong>: робота_в_харькове
+<strong>IP</strong>: 188.163.184.38
+
+    [parse_mode] => HTML
+)
+

@@ -1,0 +1,10 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Елизавета
+<strong>Номер</strong>: +38 (095) 141 15 79
+<strong>IP</strong>: 37.57.81.30
+
+    [parse_mode] => HTML
+)
+

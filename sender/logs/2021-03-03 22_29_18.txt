@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Ева
+<strong>Номер</strong>: +380 (96) 393-97-42
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: webcam
+<strong>IP</strong>: 94.153.52.136
+
+    [parse_mode] => HTML
+)
+

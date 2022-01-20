@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Влад
+<strong>Номер</strong>: +38 093 220 1935
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: web_модель
+<strong>IP</strong>: 88.155.1.203
+
+    [parse_mode] => HTML
+)
+

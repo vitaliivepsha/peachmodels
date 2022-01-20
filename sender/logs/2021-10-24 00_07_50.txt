@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Елизавета
+<strong>Номер</strong>: +380(50) 647 - 70 - 73
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: брачное_агентство_вакансии
+<strong>IP</strong>: 213.5.196.87
+
+    [parse_mode] => HTML
+)
+

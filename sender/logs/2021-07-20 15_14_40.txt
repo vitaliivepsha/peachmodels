@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Тетяна
+<strong>Номер</strong>: +38(066)36-767-25
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: веб_кам_модели
+<strong>IP</strong>: 93.72.200.197
+
+    [parse_mode] => HTML
+)
+

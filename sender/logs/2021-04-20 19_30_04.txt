@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Карина
+<strong>Номер</strong>: +38 (066) 684 58 43
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: веб_кам
+<strong>IP</strong>: 109.87.128.155
+
+    [parse_mode] => HTML
+)
+

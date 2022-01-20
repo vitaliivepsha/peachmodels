@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Ірина 
+<strong>Номер</strong>: +380(68) 730 - 01 - 33
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: вебмодель
+<strong>IP</strong>: 185.12.142.78
+
+    [parse_mode] => HTML
+)
+

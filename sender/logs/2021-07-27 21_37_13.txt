@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Антон 
+<strong>Номер</strong>: 0732036699
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: webcam
+<strong>IP</strong>: 2001:67c:198c:906:30::32c
+
+    [parse_mode] => HTML
+)
+

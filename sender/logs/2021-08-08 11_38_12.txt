@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Анна
+<strong>Номер</strong>: +38(097)294-0012
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: работа_онлайн_для_девушек
+<strong>IP</strong>: 188.163.59.80
+
+    [parse_mode] => HTML
+)
+

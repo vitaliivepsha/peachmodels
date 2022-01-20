@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: karolina
+<strong>Номер</strong>: +38 097 8708104
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: робота_веб_модель
+<strong>IP</strong>: 178.137.129.171
+
+    [parse_mode] => HTML
+)
+

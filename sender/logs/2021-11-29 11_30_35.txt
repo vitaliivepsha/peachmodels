@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Виолетта 
+<strong>Номер</strong>: +380 (63) 231 25 40
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: вебкам_сайт
+<strong>IP</strong>: 91.201.180.124
+
+    [parse_mode] => HTML
+)
+

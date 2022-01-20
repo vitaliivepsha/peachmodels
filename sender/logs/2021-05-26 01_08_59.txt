@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: НАстя
+<strong>Номер</strong>: +380 (50) 827 71 05
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: работа_веб_моделью
+<strong>IP</strong>: 77.120.154.223
+
+    [parse_mode] => HTML
+)
+

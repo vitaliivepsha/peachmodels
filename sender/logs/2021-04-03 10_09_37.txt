@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Алевтина
+<strong>Номер</strong>: 0680697138
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: веб_модели_харьков
+<strong>IP</strong>: 94.153.78.12
+
+    [parse_mode] => HTML
+)
+

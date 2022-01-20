@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Раиса
+<strong>Номер</strong>: +38(050)607-14-50
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office_obshie
+<strong>Utm term</strong>: работа_харьков_без_опыта
+<strong>IP</strong>: 93.77.80.35
+
+    [parse_mode] => HTML
+)
+

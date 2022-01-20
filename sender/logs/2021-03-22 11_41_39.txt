@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Елена
+<strong>Номер</strong>: 380(97)719-92-41
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: вебкам_на_дому
+<strong>IP</strong>: 88.155.78.144
+
+    [parse_mode] => HTML
+)
+

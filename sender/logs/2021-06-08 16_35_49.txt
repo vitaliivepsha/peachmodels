@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Игорь
+<strong>Номер</strong>: +380 (63) 394-41-30
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: веб_модели_харьков
+<strong>IP</strong>: 88.155.65.177
+
+    [parse_mode] => HTML
+)
+

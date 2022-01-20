@@ -1,0 +1,10 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Альбина
+<strong>Номер</strong>: +38 (099) 518 61 98
+<strong>IP</strong>: 91.220.230.54
+
+    [parse_mode] => HTML
+)
+

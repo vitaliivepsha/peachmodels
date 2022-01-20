@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Любовь
+<strong>Номер</strong>: 0965774887
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: вебка_работа
+<strong>IP</strong>: 91.224.45.152
+
+    [parse_mode] => HTML
+)
+

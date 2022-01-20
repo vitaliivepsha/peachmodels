@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Даниель
+<strong>Номер</strong>: +38096-601-60-02
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: веб_кам
+<strong>IP</strong>: 46.63.127.223
+
+    [parse_mode] => HTML
+)
+

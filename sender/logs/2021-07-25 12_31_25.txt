@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Денисенко Ангелина Олеговна
+<strong>Номер</strong>: +380635607726
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: ukr_house
+<strong>Utm term</strong>: лучшие_сайты_веб_моделей
+<strong>IP</strong>: 188.163.42.92
+
+    [parse_mode] => HTML
+)
+

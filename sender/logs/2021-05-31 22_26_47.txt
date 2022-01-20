@@ -1,0 +1,13 @@
+Array
+(
+    [chat_id] => -1001446229588
+    [text] => <strong>Имя</strong>: Екатерина
+<strong>Номер</strong>: +38 (095) 007-97-88
+<strong>Utm source</strong>: google
+<strong>Utm campaign</strong>: kharkov_office
+<strong>Utm term</strong>: работа_вебкам
+<strong>IP</strong>: 128.124.41.131
+
+    [parse_mode] => HTML
+)
+
