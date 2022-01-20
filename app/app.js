@@ -244,6 +244,7 @@ $(function() {
   $('.header-phone').click(function(e) {
     e.preventDefault();
     $('.header-phones').toggleClass('active');
+    $('.header-lang__wrapper').removeClass('active');
   });
 
   $(document).click(function() {
@@ -254,7 +255,19 @@ $(function() {
     e.stopPropagation();
   });
 
-  $(document).on('click', '.widget-list', function(e) {
+  // header lang
+
+  $('.header-lang').click(function(e) {
+    e.preventDefault();
+    $('.header-lang__wrapper').toggleClass('active');
+    $('.header-phones').removeClass('active');
+  });
+
+  $(document).click(function() {
+    $('.header-lang__wrapper').removeClass('active');
+  });
+
+  $(document).on('click', '.header-lang__wrapper', function(e) {
     e.stopPropagation();
   });
 
