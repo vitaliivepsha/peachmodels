@@ -102,6 +102,7 @@
   "license": "MIT",
   "dependencies": {
     "jquery.cookie": "^1.4.1",
+    "perfect-scrollbar": "^1.5.5",
     "sugar": "^2.0.6"
   }
 }
