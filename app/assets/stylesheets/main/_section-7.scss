@@ -75,6 +75,8 @@
       width: 100%;
     }
     @include bp(xs){
+      width: 100vw;
+      max-width: 100vw;
       height: 111.5vw;
       object-fit: contain;
     }
