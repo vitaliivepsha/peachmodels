@@ -391,6 +391,12 @@
   url("../images/wpic-03.svg") no-repeat center right -150px,
   url("../images/wpic-04.svg") no-repeat center right -200px, #fff;
   animation: 6s ease 0s infinite normal none running changeIcons;
+  &.widget-ua{
+    background: url("../images/wpic-07.svg") no-repeat center,
+    url("../images/wpic-06.svg") no-repeat center right -100px,
+    url("../images/wpic-03.svg") no-repeat center right -150px,
+    url("../images/wpic-04.svg") no-repeat center right -200px, #fff;
+  }
   &.active{
     background: url("../images/wpic-05.svg") no-repeat center, #fff;
     animation: none;

@@ -5,6 +5,7 @@
   z-index: 1;
   @include bp(xs){
     padding-top: 20px;
+    overflow: hidden;
   }
 }
 

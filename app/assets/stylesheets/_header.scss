@@ -86,6 +86,19 @@
   @include bp(lg){
     display: none;
   }
+  &.ua{
+    >li{
+      >a{
+        padding: 7px;
+        font-size: 17px;
+        &:hover, &.active{
+          &:after{
+            width: calc(100% - 14px);
+          }
+        }
+      }
+    }
+  }
   >li{
     >a{
       display: flex;
